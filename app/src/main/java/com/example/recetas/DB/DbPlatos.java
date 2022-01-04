@@ -39,7 +39,7 @@ public class DbPlatos extends DbHelper{
             values.put("nombre",nombre);
             values.put("descripcion",descripcion);
             values.put("proteinas",proteinas);
-            values.put("calorias",calorias);
+            values.put("calorías",calorias);
             values.put("hidratosCarbono",hidratosCarbono);
             values.put("grasa",grasa);
             values.put("alergenos",alergenos.toString());
